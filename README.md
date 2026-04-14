@@ -3,4 +3,4 @@ Create a square grid that lets users draw pixelated, grayscale artwork (similar 
 
 Visit [this link](https://mr-rhombus.github.io/odin-etch-a-sketch/) to put your artistic skills on display!
 
-![alt text](image-1.png)
+![alt text](image.png)
