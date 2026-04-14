@@ -23,3 +23,14 @@ body {
     opacity: 0.2;
     flex: auto;
 }
+
+#dimension-input {
+    display: flex;
+    gap: 10px;
+}
+
+#warning-text {
+    color: red;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
