@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+}
+
+#row {
+    display: flex;
+    flex: auto;
+}
+
+.tile {
+    border: 0.5px solid black;
+    opacity: 0.2;
+    flex: auto;
+}
